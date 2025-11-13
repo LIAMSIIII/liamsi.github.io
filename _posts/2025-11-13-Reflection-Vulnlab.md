@@ -6,7 +6,7 @@ categories: [Writeups, Vulnlab]
 tags: [Active Directory, NTLM Relay, RBCD, LAPS, Privilege Escalation, Windows]
 difficulty: Medium
 image:
-  path: assets\lib\reflection.png
+  path: assets/lib/reflection.png
   alt: Reflection Vulnlab Banner
 ---
 
